@@ -5,7 +5,7 @@ import random
 import re
 import json
 from datetime import datetime, timedelta
-import cv2
+
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 import time
